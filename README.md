@@ -1,2 +1,2 @@
 # Eloquia-Updates
-Repositories per l'aggiornamento di Eloquia
+File di aggiornamento pubblico di Eloquia.
